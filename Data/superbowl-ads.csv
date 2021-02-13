@@ -8,11 +8,11 @@ Year,Product Type,Product/Title,Plot/Notes
 1982,Computer,"RadioShack""Color Computer""",A commercial for the TRS-80 computer.
 1982,Restaurant,"McDonald's""Hopscotch""","Two kids are playing hopscotch while singing the McDonald's menu. Soon, the whole neighborhood joins in."
 1984,Computer,"Apple Inc.""1984""","In what some call the greatest Super Bowl commercial of all time, an Olympian runs to save a race of hypnotized humans from their computer overlord. Being chased by police, the Olympian throws a hammer at the screen overlord and a beacon of light shines, to the amazement of the followers. The caption reads, ""On January 24th, Apple Computer will introduce Macintosh. And you'll see why 1984 won't be like '1984.'"" This ad is based on the George Orwell book Nineteen-Eighty Four"
-1984,Computer,"Atari""Get Started"""
-1984,Beer,"Miller Lite""Train"""
-1984,Security,"Master Lock""The Doubters"
+1984,Computer,"Atari""Get Started""",
+1984,Beer,"Miller Lite""Train""",
+1984,Security,"Master Lock""The Doubters",
 1988,Food,Doritos tortilla chips,"Two guys in a laundromat try to impress a girl (Ali Landry) by eating Doritos, and she outdoes them."
-1989,Beer,Budweiser,"""Bud Bowl I""",A team of Budweiser beer bottles compete against Bud Light beer bottles in a simulated football game.[5]
+1989,Beer,Budweiser,"""Bud Bowl I"""
 1990,Car,"Nissan""Turbocharged Dream""","A Nissan 300ZX Turbo is challenged by a sportbike, racing car and a jet fighter respectively.Director: Ridley Scott[6][7][8]"
 1990,Credit card,"American Express""The Race""",Paul Newman races a Top-Fuel Dragster on a Mini-Bike.
 1992,Soft Drink,"Pepsi""Cindy Crawford""",Two Boys see Cindy Crawford pulling up at a vending machine drinking a can of Pepsi.
@@ -22,10 +22,10 @@ Year,Product Type,Product/Title,Plot/Notes
 1993,Clothing,"Lee""The Date""","A young woman in her bedroom upstairs wearing a white leotard as a top sees her date (Alan Cumming) pulling up. She struggles to get into her jeans by hip rolling, and jumping up and down and trying to pull jeans up at same time. Date sees shadow of her hip rolling in window and gets excited. As she continues to struggle to get into her jeans she gets one foot tangled in cord of floor lamp then the other and falls into mannequin with mannequin landing on top of her and the lights going out. Date sees this and looks to him like she is fooling around with another guy."
 1993,Car,"Subaru Impreza""Teaser""",This ad was produced by Wieden+Kennedy. six different commercials are used to describe the new Impreza:1. the Honda Civic have a 3-Channel ABS but The Impreza Have a 4-Channel ABS.2. The Impreza having less trouble starting the engine in cold weather condition than the Honda Civic by Eliminating the Distributor.3. With The new EJ18 Horizontally Opposed engine help The Impreza for better connering and better weight distribution Than the Honda Civic.4. The Impreza Suspension give a Smoother ride than a Double wishbone suspension Honda Civic.5. The Impreza TCU is linked with the ECU to provide seamless shifting.6. The Subaru Passenger Car which Registration in The past 10 Years are still on the road for 93 Percent According to 1991 R.L. Polk & Company Passenger Car Registration Report.Narrator: Kirstie Alley
 1993,Car,"Honda Prelude""Slingshot""","This ad was produced by RPA. The commercial announcer saying ""Presenting The One hundred And ninety Horsepower Prelude VTEC"" Then the car going reverse and Suddenly the Prelude go forward like a slingshot fires Then The commercial announcer saying ""From Honda"" before ending with the Honda logo and the American Honda Motor Jingle."
-1994,Car,Jeep,"""Snow Covered""","This ad was produced by Bozell. The commercial features something tunneling beneath the snow, crossing a vast and desolate mountain range, bathed in the multicolored glow of the setting sun. The tunneling object is never exposed and actually remains undefined until the last seconds of the ad, when we see twin taillights light up at a partially submerged stop sign and then turn left. The car is only identified as a Jeep on the final title card that flashes across the screen The commercial First aired during the opening ceremonies of the 1994 Winter Olympics. Although the ad was recognized for its remarkable special effects, many of which eschewed CGI in favor of practical setups, it has been most credited for its approach to the Jeep brand as a whole. While most ads only receive major airplay for a few months, “Snow Covered” was shown for the better part of a decade after its release. the Snow Covered ad was awarded with the prestigious Grand Prix award in the section Film Lions at the Cannes Lions International Advertising Festival in 1994, becoming the first auto ad to ever do so. by beating Cup Noodles sequels ""hungry?"" Quetzalcoatlus and Uintatherium which produced by Hakuhodo. Before The Ad Aired in Super Bowl XXIX."
-1994,Beer,Budweiser,"""Frogs""","Three frogs are sitting in a swamp sounding out different syllables until they finally speak out the name ""Budweiser""[5]"
-1994,Car,Jeep Grand Cherokee,"""Driveaway""",
-1994,Clothing,No Fear,"""Rodeo""",The commercial features nine-time World Champion rodeo cowboy Ty Murray (The commercial aired Later during the 1995 Indianapolis 500).
+1994,Car,Jeep,"""Snow Covered"""
+1994,Beer,Budweiser,"""Frogs"""
+1994,Car,Jeep Grand Cherokee,"""Driveaway"""
+1994,Clothing,No Fear,"""Rodeo"""
 1996,Film,Independence Day,TV promo.
 1996,Restaurant,"McDonald's""Baby Swing""","Swinging in her baby swing to ""Rock-a-Bye Baby,"" a little girl. Swinging forward, she puts on a happy smile Swinging backwards, her face crumples in distress Swinging forward, her eyes light up again, swinging back tears form in her eyes, A reverse cut shows that the swing is facing a window When the swing comes forward the baby can see McDonald's golden arches When it swings back she can't.  the Baby Swing ad has won the Grand Prix in the section Film Lions at the Cannes Lions International Advertising Festival with the Rolo ad ""Elephant"" in same year This ad was produced by Leo Burnett Worldwide."
 1997,Car,"Nissan""Pigeons""","With homage to Top Gun, pigeons attempt to poop on a Nissan, but the car is too fast for them."
@@ -299,82 +299,82 @@ Year,Product Type,Product/Title,Plot/Notes
 2013,Film,Oz the Great and Powerful,TV promo.
 2013,Film,Star Trek Into Darkness,TV promo.
 2013,Food,Wonderful Pistachios,"Psy does his ""Gangnam Style"" dance to promote pistachios.[17]"
-2014,Product type,Advertiser/Product,Title,Plot/Notes
-2014,Beer,Budweiser,"""Puppy Love""",.
-2014,Car,Audi,"""Doberhuahua""",.
-2014,Car,Kia K900,"""The Truth""","Morpheus offers a couple of choice of a red key or a blue key (with the red key being a Kia K900). As they drive on the Kia, Morpheus accompanies them while singing to ""Nessun Dorma"" as nods to The Matrix trilogy start flying in to the scene.[18]"
-2014,Car,Volkswagen,"""Wings""","Every time a VW hits 100,000 miles, a German engineer gets their wings."
-2014,Car accessories,WeatherTech,"""You Can't Do That""",.
-2014,Food,Doritos,"""Time Machine""","A child scams a neighbor into giving him his bag of Doritos, by claiming he had built a time machine powered by them."
-2014,Store,RadioShack,"""The '80s Called""",A RadioShack store is cleared out by several 1980s pop culture icons.[19]
-2014,Soft drink,Coca-Cola,It's Beautiful,"Themed around multiculturalism, the ad showed scenes depicting scenes of Americans of various ethnicities, including a same-sex couple, the first depicted in a Super Bowl ad; set to the rendition of the patriotic hymn America the Beautiful sung in different languages. Upon its release, the commercial was controversial. The ad later re-aired at Super Bowl LI."
-2015,Adhesives,Loctite,"""Positive Feelings""",People dancing with Loctite fanny packs.[20]
-2015,Antifungal medication,Jublia """Tackle It""",Antifungal topical.[21]
-2015,Beer,Budweiser """Lost Dog""",A little yellow labrador gets lost and finds his way home.[22]
-2015,Beer,Bud Light """Coin""","As part of the beer's ongoing ""Up for Whatever"" campaign, a randomly-chosen person plays a life-sized version of Pac-Man.[23]"
-2015,Candy,Skittles """It Will be Settled""",A town settles their disputes with arm wrestling contests.[24]
-2015,Candy,Snickers """The Brady Bunch""","In The Brady Bunch episode, a hungry Marcia (Danny Trejo) is stressing out and ""her"" parents settle her down with a Snickers bar.[25]"
-2015,Car,BMW """Newfangled Idea""","No one knew how big the Internet would become, as shown in a 1994 clip of Today show hosts Katie Couric and Bryant Gumbel. 21 years later, the two are in an all-electric BMW i3, which is made in a wind-powered factory.[21]"
-2015,Car,Chevrolet """Super Bowl Blackout""","The screen goes blank and then asks what if you lost TV service and your screen went black as the game started, and that its latest vehicle has Wi-Fi ability.[26]"
-2015,Car,Dodge """Wisdom""","Centenarians give advice about life, as the car company celebrates its 100th anniversary.[21]"
-2015,Car,Fiat """The Fiat Blue Pill""","A husband loses his blue pill, which bounces around town until it lands in a Fiat 500, making the car slightly bigger.[27]"
-2015,Car,Jeep """Beautiful Lands""","Advertisement for the Jeep Renegade, done to the song ""This Land Is Your Land"", and applied to lands all over the world.[28]"
-2015,Car,Lexus """Let's Play""","A miniature model of the Lexus RC 350 shows off some drift parking techniques, followed by a full-size model.[21]"
-2015,Car,Kia Motors """The Perfect Getaway""","Pierce Brosnan is pitched a movie role where he drives a Kia Sorento up a snow-covered mountain road but instead of action-adventure mission with snipers, tanks, and explosions, he encounters animals and safe drive.[29]"
-2015,Car,Mercedes-Benz """Fable""",A retelling of The Tortoise and the Hare where the tortoise drives a Mercedes-AMG GT.[30]
-2015,Car,Nissan """With Dad""",A race car driver balances his work life and his family. First public appearance of Nissan GT-R LM Nismo.[31][32][33]
-2015,Car,Toyota """How Great I Am""",Footage of Paralympian snowboarder and Dancing with the Stars competitor Amy Purdy juxtaposed with an audio promo by Muhammad Ali.[21]
-2015,Car,Toyota """My Bold Dad""",The aspects of being a dad.[21]
-2015,Car accessories,WeatherTech """America At Work""",The American company makes car floor mats.[21][34]
-2015,Credit card,Discover """Surprise""","A guy contacts his service representative when he learns that he can get his credit score, which is good because he does not like surprises. He then opens the door and sees a screaming goat in his apartment.[35]"
-2015,Feminine care products,Always """Like a Girl""","A new look at the phrase of doing things ""like a girl"".[21][36]"
+2014,Product type,Advertiser/Product,Title
+2014,Beer,Budweiser,"""Puppy Love"""
+2014,Car,Audi,"""Doberhuahua"""
+2014,Car,Kia K900,"""The Truth"""
+2014,Car,Volkswagen,"""Wings"""
+2014,Car accessories,WeatherTech,"""You Can't Do That"""
+2014,Food,Doritos,"""Time Machine"""
+2014,Store,RadioShack,"""The '80s Called"""
+2014,Soft drink,Coca-Cola,It's Beautiful
+2015,Adhesives,Loctite,"""Positive Feelings"""
+2015,Antifungal medication,"Jublia """"""Tackle It""""""",Antifungal topical.[21]
+2015,Beer,"Budweiser """"""Lost Dog""""""",A little yellow labrador gets lost and finds his way home.[22]
+2015,Beer,"Bud Light """"""Coin""""""","As part of the beer's ongoing ""Up for Whatever"" campaign, a randomly-chosen person plays a life-sized version of Pac-Man.[23]"
+2015,Candy,"Skittles """"""It Will be Settled""""""",A town settles their disputes with arm wrestling contests.[24]
+2015,Candy,"Snickers """"""The Brady Bunch""""""","In The Brady Bunch episode, a hungry Marcia (Danny Trejo) is stressing out and ""her"" parents settle her down with a Snickers bar.[25]"
+2015,Car,"BMW """"""Newfangled Idea""""""","No one knew how big the Internet would become, as shown in a 1994 clip of Today show hosts Katie Couric and Bryant Gumbel. 21 years later, the two are in an all-electric BMW i3, which is made in a wind-powered factory.[21]"
+2015,Car,"Chevrolet """"""Super Bowl Blackout""""""","The screen goes blank and then asks what if you lost TV service and your screen went black as the game started, and that its latest vehicle has Wi-Fi ability.[26]"
+2015,Car,"Dodge """"""Wisdom""""""","Centenarians give advice about life, as the car company celebrates its 100th anniversary.[21]"
+2015,Car,"Fiat """"""The Fiat Blue Pill""""""","A husband loses his blue pill, which bounces around town until it lands in a Fiat 500, making the car slightly bigger.[27]"
+2015,Car,"Jeep """"""Beautiful Lands""""""","Advertisement for the Jeep Renegade, done to the song ""This Land Is Your Land"", and applied to lands all over the world.[28]"
+2015,Car,"Lexus """"""Let's Play""""""","A miniature model of the Lexus RC 350 shows off some drift parking techniques, followed by a full-size model.[21]"
+2015,Car,"Kia Motors """"""The Perfect Getaway""""""","Pierce Brosnan is pitched a movie role where he drives a Kia Sorento up a snow-covered mountain road but instead of action-adventure mission with snipers, tanks, and explosions, he encounters animals and safe drive.[29]"
+2015,Car,"Mercedes-Benz """"""Fable""""""",A retelling of The Tortoise and the Hare where the tortoise drives a Mercedes-AMG GT.[30]
+2015,Car,"Nissan """"""With Dad""""""",A race car driver balances his work life and his family. First public appearance of Nissan GT-R LM Nismo.[31][32][33]
+2015,Car,"Toyota """"""How Great I Am""""""",Footage of Paralympian snowboarder and Dancing with the Stars competitor Amy Purdy juxtaposed with an audio promo by Muhammad Ali.[21]
+2015,Car,"Toyota """"""My Bold Dad""""""",The aspects of being a dad.[21]
+2015,Car accessories,"WeatherTech """"""America At Work""""""",The American company makes car floor mats.[21][34]
+2015,Credit card,"Discover """"""Surprise""""""","A guy contacts his service representative when he learns that he can get his credit score, which is good because he does not like surprises. He then opens the door and sees a screaming goat in his apartment.[35]"
+2015,Feminine care products,"Always """"""Like a Girl""""""","A new look at the phrase of doing things ""like a girl"".[21][36]"
 2015,Film,Avengers: Age of Ultron ,TV promo.[37]
 2015,Film,The Divergent Series: Insurgent ,TV promo.[37]
 2015,Film,Fifty Shades of Grey ,TV promo.[37]
 2015,Film,Furious 7 ,TV promo.[37][38]
 2015,Film,Jurassic World ,TV promo.[37]
-2015,Film,Minions """Super Fans""",TV promo. The Minions are shown to enjoy the game with their own ways.[37][39]
+2015,Film,"Minions """"""Super Fans""""""",TV promo. The Minions are shown to enjoy the game with their own ways.[37][39]
 2015,Film,Pitch Perfect 2 ,TV promo[37]
 2015,Film,Ted 2 ,TV promo. Tom Brady is featured in the movie.[37][40]
 2015,Film,Terminator Genisys ,TV promo.[37]
 2015,Film,Tomorrowland ,TV promo.[21][37]
-2015,Food,Avocados From Mexico """First Draft Ever""",Doug Flutie and Jerry Rice provide color commentary on the first ever draft over animals and plants.[41]
-2015,Food,Doritos """Middle Seat""","An airline passenger tries not to let the seat next to him be occupied. / Winner in the Doritos ""Crash the Super Bowl"" contest.[42][43]"
-2015,Food,Doritos """When Pigs Fly""","A boy creates a contraption that allows pigs to fly so he can get some Doritos. / Runner-up in the Doritos ""Crash the Super Bowl"" contest.[42][43][44]"
-2015,Food,McDonald's """Pay With Lovin'""","A McDonald's restaurant accepts alternatives to money such as compliments, silly dances, and calling mom.[21][24]"
-2015,Gaming,Clash of Clans """Revenge""",Liam Neeson plans to avenge his loss in the game.[45][46]
-2015,Gaming,Game of War: Fire Age """Who I Am""",Kate Upton's character leads her troops against an invading army.[47]
-2015,Insurance,Esurance """Sorta Pharmacy""","A woman gets service by ""Sorta Greg"" (Bryan Cranston), an eccentric pharmacist.[21]"
-2015,Insurance,Esurance """Sorta Your Mom""","A student is picked up from school by a badly-driving woman who claims to be ""sorta your mom"" (Lindsay Lohan).[48]"
-2015,Insurance,Nationwide """Boy""",A boy talks about not being able to do things like ride a bike or other childhood activities because he died from an accident.[49]
-2015,Insurance,Nationwide """Invisible Mindy""","Mindy Kaling concludes that based on how she's been treated by insurance companies, she might actually be invisible.[21]"
+2015,Food,"Avocados From Mexico """"""First Draft Ever""""""",Doug Flutie and Jerry Rice provide color commentary on the first ever draft over animals and plants.[41]
+2015,Food,"Doritos """"""Middle Seat""""""","An airline passenger tries not to let the seat next to him be occupied. / Winner in the Doritos ""Crash the Super Bowl"" contest.[42][43]"
+2015,Food,"Doritos """"""When Pigs Fly""""""","A boy creates a contraption that allows pigs to fly so he can get some Doritos. / Runner-up in the Doritos ""Crash the Super Bowl"" contest.[42][43][44]"
+2015,Food,"McDonald's """"""Pay With Lovin'""""""","A McDonald's restaurant accepts alternatives to money such as compliments, silly dances, and calling mom.[21][24]"
+2015,Gaming,"Clash of Clans """"""Revenge""""""",Liam Neeson plans to avenge his loss in the game.[45][46]
+2015,Gaming,"Game of War: Fire Age """"""Who I Am""""""",Kate Upton's character leads her troops against an invading army.[47]
+2015,Insurance,"Esurance """"""Sorta Pharmacy""""""","A woman gets service by ""Sorta Greg"" (Bryan Cranston), an eccentric pharmacist.[21]"
+2015,Insurance,"Esurance """"""Sorta Your Mom""""""","A student is picked up from school by a badly-driving woman who claims to be ""sorta your mom"" (Lindsay Lohan).[48]"
+2015,Insurance,"Nationwide """"""Boy""""""",A boy talks about not being able to do things like ride a bike or other childhood activities because he died from an accident.[49]
+2015,Insurance,"Nationwide """"""Invisible Mindy""""""","Mindy Kaling concludes that based on how she's been treated by insurance companies, she might actually be invisible.[21]"
 2015,Lingerie,Victoria's Secret ,Footage of model shoots from the past 18 months.[50]
-2015,Phone,Sprint """Super Apology""",A caption-styled ad with curse words changed with pictures of the screaming goat and a donkey.[21]
-2015,Phone,T-Mobile """#KimsDataStash""",Kim Kardashian asks viewers to help save the data from cell phone service packages so that she can be seen in action.[24][51][52]
-2015,Phone,T-Mobile """One Upped""",Chelsea Handler and Sarah Silverman try to one-up each other when they use Wi-Fi calling.[53][54]
-2015,Phone accessory,Mophie """All-Powerless""",Weird things happen around the world because God's smartphone battery runs out.[21]
-2015,Service,No More """30 Second""",A woman places a call to 911 pretending to order a pizza but is actually calling for help from domestic abuse.[24]
-2015,Service,Weight Watchers """All You Can Eat""","After being inundated with food ads, it is time to make plans.[21][55]"
-2015,Shoes,Skechers """Hall""",Pete Rose talks about being in the Hall and walking in his Skechers shoes. It turns out the Hall is in his own house and he even is not supposed to be in there.[21]
-2015,Skincare products,Dove+Men """Real Strength""",Video clips of kids of various ages calling out for their dads.[21][24][56][57]
-2015,Soft Drink,Coca-Cola """Make It Happy""",A spill of the drink in a data center causes Internet bullying messages to transform into positive messages.[21][24]
-2015,Software,TurboTax """Boston Tea Party""",The British work a deal to call off the American Revolution by stating that filing taxes would be free.[58]
-2015,Technology,Microsoft """Braylon O'Neill""",A boy with two prosthetic legs is able to play sports and have a life.[21]
-2015,Website,Wix.com """It's That Easy""",5 former NFL stars start new careers with the help of website builder Wix.com.[21]
-2015,Website,GoDaddy.com """Working""",A guy misses the Super Bowl party so he can work on his e-business.[21]
-2015,Website,Squarespace """Om""","Jeff Bridges hums ""Om"" next to a sleeping couple, and advertises his website that he built with Squarespace.[21]"
+2015,Phone,"Sprint """"""Super Apology""""""",A caption-styled ad with curse words changed with pictures of the screaming goat and a donkey.[21]
+2015,Phone,"T-Mobile """"""#KimsDataStash""""""",Kim Kardashian asks viewers to help save the data from cell phone service packages so that she can be seen in action.[24][51][52]
+2015,Phone,"T-Mobile """"""One Upped""""""",Chelsea Handler and Sarah Silverman try to one-up each other when they use Wi-Fi calling.[53][54]
+2015,Phone accessory,"Mophie """"""All-Powerless""""""",Weird things happen around the world because God's smartphone battery runs out.[21]
+2015,Service,"No More """"""30 Second""""""",A woman places a call to 911 pretending to order a pizza but is actually calling for help from domestic abuse.[24]
+2015,Service,"Weight Watchers """"""All You Can Eat""""""","After being inundated with food ads, it is time to make plans.[21][55]"
+2015,Shoes,"Skechers """"""Hall""""""",Pete Rose talks about being in the Hall and walking in his Skechers shoes. It turns out the Hall is in his own house and he even is not supposed to be in there.[21]
+2015,Skincare products,"Dove+Men """"""Real Strength""""""",Video clips of kids of various ages calling out for their dads.[21][24][56][57]
+2015,Soft Drink,"Coca-Cola """"""Make It Happy""""""",A spill of the drink in a data center causes Internet bullying messages to transform into positive messages.[21][24]
+2015,Software,"TurboTax """"""Boston Tea Party""""""",The British work a deal to call off the American Revolution by stating that filing taxes would be free.[58]
+2015,Technology,"Microsoft """"""Braylon O'Neill""""""",A boy with two prosthetic legs is able to play sports and have a life.[21]
+2015,Website,"Wix.com """"""It's That Easy""""""",5 former NFL stars start new careers with the help of website builder Wix.com.[21]
+2015,Website,"GoDaddy.com """"""Working""""""",A guy misses the Super Bowl party so he can work on his e-business.[21]
+2015,Website,"Squarespace """"""Om""""""","Jeff Bridges hums ""Om"" next to a sleeping couple, and advertises his website that he built with Squarespace.[21]"
 2016,Product type,Advertiser/Product Title,Plot/Notes
-2016,Beer,Bud Light """Bud Light Party""",Amy Schumer and Seth Rogen form a political party.[59]
-2016,Car,Jeep """4x4ever""",[60][61]
-2016,Car,Jeep """Portraits""","In honor of the brand's 75-year anniversary, a montage of portraits of famous Jeep owners and users is presented.[61]"
-2016,Car,Hyundai Genesis """First Date""","A father (Kevin Hart) lets his son borrow his Hyundai Genesis for his first date, but follows him around using the vehicle's tracking system, culminating with him using an actual helicopter to track him.[62]"
-2016,Car,Honda Ridgeline """A New Truck to Love""","A herd of sheep sing Queen's ""Somebody to Love"", while the truck bed audio system of the new Ridgeline is demonstrated.[62]"
-2016,Car accessories,WeatherTech """Resources""",Highlights the manufacturing process and the employees who produce WeatherTech products.[63]
-2016,Clothing,Marmot """Love the Outside""","A camper hangs outdoors with a marmot, and is slapped in the face when he attempts to kiss it.[64]"
-2016,Food,Doritos """Ultrasound""",A pregnant woman's newborn child shares her husband's fondness for Doritos.
-2016,Food,Doritos """Doritos Dogs""","A group of dogs evade a supermarket's ""no dogs"" policy to reach a Doritos display."
-2016,Food,Heinz """Weiner Stampede""","A pack of weiner dogs, dressed like hot dogs, run in slow motion towards humans in Heinz Ketchup and Mustard bottle costumes.[62]"
-2016,Food,Skittles """Portrait""","Steven Tyler is presented with a living portrait of himself made from Skittles, which explodes after trying to sing a high note iFilmn ""DCaptain America : Civil Warream On"".[65]"
+2016,Beer,"Bud Light """"""Bud Light Party""""""",Amy Schumer and Seth Rogen form a political party.[59]
+2016,Car,"Jeep """"""4x4ever""""""",[60][61]
+2016,Car,"Jeep """"""Portraits""""""","In honor of the brand's 75-year anniversary, a montage of portraits of famous Jeep owners and users is presented.[61]"
+2016,Car,"Hyundai Genesis """"""First Date""""""","A father (Kevin Hart) lets his son borrow his Hyundai Genesis for his first date, but follows him around using the vehicle's tracking system, culminating with him using an actual helicopter to track him.[62]"
+2016,Car,"Honda Ridgeline """"""A New Truck to Love""""""","A herd of sheep sing Queen's ""Somebody to Love"", while the truck bed audio system of the new Ridgeline is demonstrated.[62]"
+2016,Car accessories,"WeatherTech """"""Resources""""""",Highlights the manufacturing process and the employees who produce WeatherTech products.[63]
+2016,Clothing,"Marmot """"""Love the Outside""""""","A camper hangs outdoors with a marmot, and is slapped in the face when he attempts to kiss it.[64]"
+2016,Food,"Doritos """"""Ultrasound""""""",A pregnant woman's newborn child shares her husband's fondness for Doritos.
+2016,Food,"Doritos """"""Doritos Dogs""""""","A group of dogs evade a supermarket's ""no dogs"" policy to reach a Doritos display."
+2016,Food,"Heinz """"""Weiner Stampede""""""","A pack of weiner dogs, dressed like hot dogs, run in slow motion towards humans in Heinz Ketchup and Mustard bottle costumes.[62]"
+2016,Food,"Skittles """"""Portrait""""""","Steven Tyler is presented with a living portrait of himself made from Skittles, which explodes after trying to sing a high note iFilmn ""DCaptain America : Civil Warream On"".[65]"
 2016,Film,10 Cloverfield Lane ,TV trailer.
 2016,Film,Deadpool ,TV promo.
 2016,Film,Captain America: Civil War ,
@@ -384,105 +384,105 @@ Year,Product Type,Product/Title,Plot/Notes
 2016,Film,The Secret Life of Pets ,TV trailer.
 2016,Film,Teenage Mutant Ninja Turtles: Out of the Shadows ,TV trailer.
 2016,Film,X-Men: Apocalypse ,TV trailer.
-2016,Game,The Pokémon Company """Train On""",Honors the 20th anniversary of the Pokémon franchise.[66]
-2016,Phone,T-Mobile """Drop The Balls""","In reference to his incorrect announcement of the winner of Miss Universe 2015  Steve Harvey apologizes for an error in a Verizon Wireless ad because T-Mobile had doubled the size of its LTE network in the past year.[67]"
-2016,Phone,T-Mobile """Restricted Bling""","Executives from a cellphone provider interrupt Drake filming his music video for ""Hotline Bling"", seeking ""improvements"" to its lyrics to reflect caveats and hidden fees.[68]"
-2016,Toothpaste,Colgate """Every Drop Counts""","A water conservation PSA, encouraging people to turn off their faucets while brushing their teeth.[69]"
-2016,Soft drink,Mountain Dew Kickstart """Puppymonkeybaby""","As a parallel to Mountain Dew Kickstart being a combination of three ""awesome"" things, a hybrid of a puppy, monkey, and baby is presented as another.[70]"
-2016,Sports,NFL """Super Bowl Babies Choir""","A group of ""Super Bowl Babies"", who were all born within nine months of a Super Bowl having been won in their hometown, sing a football-themed version of Seal's ""Kiss from a Rose"".[71][72]"
+2016,Game,"The Pokémon Company """"""Train On""""""",Honors the 20th anniversary of the Pokémon franchise.[66]
+2016,Phone,"T-Mobile """"""Drop The Balls""""""",In reference to his incorrect announcement of the winner of Miss Universe 2015  Steve Harvey apologizes for an error in a Verizon Wireless ad because T-Mobile had doubled the size of its LTE network in the past year.[67]
+2016,Phone,"T-Mobile """"""Restricted Bling""""""","Executives from a cellphone provider interrupt Drake filming his music video for ""Hotline Bling"", seeking ""improvements"" to its lyrics to reflect caveats and hidden fees.[68]"
+2016,Toothpaste,"Colgate """"""Every Drop Counts""""""","A water conservation PSA, encouraging people to turn off their faucets while brushing their teeth.[69]"
+2016,Soft drink,"Mountain Dew Kickstart """"""Puppymonkeybaby""""""","As a parallel to Mountain Dew Kickstart being a combination of three ""awesome"" things, a hybrid of a puppy, monkey, and baby is presented as another.[70]"
+2016,Sports,"NFL """"""Super Bowl Babies Choir""""""","A group of ""Super Bowl Babies"", who were all born within nine months of a Super Bowl having been won in their hometown, sing a football-themed version of Seal's ""Kiss from a Rose"".[71][72]"
 2017,Product type,Advertiser/Product Title,Plot/Notes
-2017,Beer,Bud Light """Ghost Spuds""","In a parody of A Christmas Carol, the ghost of former Bud Light mascot Spuds MacKenzie helps a man learn the importance of hanging out with friends.[73][74]"
-2017,Beer,Budweiser """Born The Hard Way""","A story of the founder of Anheuser-Busch, Adolphus Busch, who left Germany to start a brewery in St. Louis, Missouri.[75][76][77]"
-2017,Beer,Busch """BUSCHHHHH""","The Busch Guy explains that Busch still has the ""same great taste it's always had"", as well as the same, seemingly never-ending sound.[78][79]"
-2017,Building materials,84 Lumber """The Journey""","A mother and daughter embark on a journey to emigrate from Mexico to the United States.[80][81] The version aired during the game was edited due to the political overtones of its conclusion, which depicts a border wall.[82][83]"
-2017,Car,Alfa Romeo """Dear Predictable""",[61][84]
-2017,Car,Alfa Romeo """Mozzafiato""",[84]
-2017,Car,Alfa Romeo """Riding Dragons""",[84]
-2017,Car,Audi """Daughter""","A father (George Clooney) monologues as his daughter wins a soapbox derby race, wondering if he should tell her that about how ""that despite her education, her drive, her skills, her intelligence, she will automatically be valued as less than every man she meets?""[85]"
+2017,Beer,"Bud Light """"""Ghost Spuds""""""","In a parody of A Christmas Carol, the ghost of former Bud Light mascot Spuds MacKenzie helps a man learn the importance of hanging out with friends.[73][74]"
+2017,Beer,"Budweiser """"""Born The Hard Way""""""","A story of the founder of Anheuser-Busch, Adolphus Busch, who left Germany to start a brewery in St. Louis, Missouri.[75][76][77]"
+2017,Beer,"Busch """"""BUSCHHHHH""""""","The Busch Guy explains that Busch still has the ""same great taste it's always had"", as well as the same, seemingly never-ending sound.[78][79]"
+2017,Building materials,"84 Lumber """"""The Journey""""""","A mother and daughter embark on a journey to emigrate from Mexico to the United States.[80][81] The version aired during the game was edited due to the political overtones of its conclusion, which depicts a border wall.[82][83]"
+2017,Car,"Alfa Romeo """"""Dear Predictable""""""",[61][84]
+2017,Car,"Alfa Romeo """"""Mozzafiato""""""",[84]
+2017,Car,"Alfa Romeo """"""Riding Dragons""""""",[84]
+2017,Car,"Audi """"""Daughter""""""","A father (George Clooney) monologues as his daughter wins a soapbox derby race, wondering if he should tell her that about how ""that despite her education, her drive, her skills, her intelligence, she will automatically be valued as less than every man she meets?""[85]"
 2017,Car,Buick N/A,Cam Newton joins a peewee football team.[86]
-2017,Car,Kia Niro """Hero's Journey""",Melissa McCarthy gets injured in various ways whilst trying to protest various environmental causes.[86][87][88]
-2017,Car,Lexus LC """Man and Machine""","Freestyle dancer Lil Buck performs a routine to Sia's ""Move Your Body"" inspired by the ""human-like movement"" of the Lexus LC. The ad also launched the Lexus brand's new tagline, ""Experience Amazing"".[89][90]"
-2017,Cleaner,Mr. Clean """Cleaner of Your Dreams""","A woman dances with Mr. Clean as they clean a house together, but she is actually daydreaming.[91]"
+2017,Car,"Kia Niro """"""Hero's Journey""""""",Melissa McCarthy gets injured in various ways whilst trying to protest various environmental causes.[86][87][88]
+2017,Car,"Lexus LC """"""Man and Machine""""""","Freestyle dancer Lil Buck performs a routine to Sia's ""Move Your Body"" inspired by the ""human-like movement"" of the Lexus LC. The ad also launched the Lexus brand's new tagline, ""Experience Amazing"".[89][90]"
+2017,Cleaner,"Mr. Clean """"""Cleaner of Your Dreams""""""","A woman dances with Mr. Clean as they clean a house together, but she is actually daydreaming.[91]"
 2017,Film,Baywatch N/A,TV promo.[92]
 2017,Film,The Fate of the Furious N/A,TV trailer.[93]
 2017,Film,Ghost in the Shell N/A,TV trailer.[94]
 2017,Film,Guardians of the Galaxy Vol. 2 N/A,TV trailer.[92]
-2017,Film,Logan """Grace""",TV trailer.[86]
+2017,Film,"Logan """"""Grace""""""",TV trailer.[86]
 2017,Film,Pirates of the Caribbean: Dead Men Tell No Tales N/A,TV trailer.[92]
-2017,Restaurant,Buffalo Wild Wings """The Conspiracy""",Brett Favre learns what is responsible for all of his interceptions.[86]
-2017,Tax preparation,TurboTax """Humpty Hospital""","Hospitalized after falling off a wall whilst doing his taxes (an event whose aftermath was seen in a prequel ad aired during the AFC Championship Game), Humpty Dumpty asks questions to a TurboTax advisor using its mobile app.[95][96]"
-2017,Technology,Intel """Brady Everyday""",Tom Brady's personal life is presented with 360-degree instant replay technology.[97]
+2017,Restaurant,"Buffalo Wild Wings """"""The Conspiracy""""""",Brett Favre learns what is responsible for all of his interceptions.[86]
+2017,Tax preparation,"TurboTax """"""Humpty Hospital""""""","Hospitalized after falling off a wall whilst doing his taxes (an event whose aftermath was seen in a prequel ad aired during the AFC Championship Game), Humpty Dumpty asks questions to a TurboTax advisor using its mobile app.[95][96]"
+2017,Technology,"Intel """"""Brady Everyday""""""",Tom Brady's personal life is presented with 360-degree instant replay technology.[97]
 2017,TV series,24: Legacy (Fox) N/A,Promo[98]
 2017,TV series,Empire (Fox) N/A,Promo[98]
 2017,TV series,Genius (National Geographic) N/A,"Albert Einstein (Geoffrey Rush) plays a short medley of songs on violin, including Lady Gaga's ""Bad Romance"" (the ad aired immediately following the Super Bowl LI halftime show featuring her).[98]"
 2017,TV series,Shots Fired (Fox) N/A,Promo[98]
 2017,TV series,Stranger Things (Netflix) N/A,Season 2 promo.[92]
-2017,TV series,The Handmaid's Tale (Hulu) """My Name Is Offred""",TV promo.[86]
-2017,Video games,Nintendo Switch """Switch and Play""","A showcase of launch titles for the upcoming video game console, including most prominently, The Legend of Zelda: Breath of the Wild.[99][100][86]"
-2017,Website,Airbnb """We Accept""",Presents a pro-multiculturalism message. Airbnb and its co-founder Brian Chesky have been a vocal opponent of Executive Order 13769 (which briefly barred residents of certain Muslim-populated countries from entering the United States).[101]
-2017,Web hosting,Squarespace """Calling JohnMalkovich.com""","John Malkovich complains to someone that had already taken the domain name ""JohnMalkovich.com"".[86]"
+2017,TV series,"The Handmaid's Tale (Hulu) """"""My Name Is Offred""""""",TV promo.[86]
+2017,Video games,"Nintendo Switch """"""Switch and Play""""""","A showcase of launch titles for the upcoming video game console, including most prominently, The Legend of Zelda: Breath of the Wild.[99][100][86]"
+2017,Website,"Airbnb """"""We Accept""""""",Presents a pro-multiculturalism message. Airbnb and its co-founder Brian Chesky have been a vocal opponent of Executive Order 13769 (which briefly barred residents of certain Muslim-populated countries from entering the United States).[101]
+2017,Web hosting,"Squarespace """"""Calling JohnMalkovich.com""""""","John Malkovich complains to someone that had already taken the domain name ""JohnMalkovich.com"".[86]"
 2017,Web hosting,Wix.com N/A,"A chef creates a website for his bistro, unaware that two people (Gal Gadot and Jason Statham) are fighting inside it.[102]"
-2017,Wireless,Sprint """No Need For Extreme Measures""",A person drops a car to fake his own death in order to cancel his contract with Verizon Wireless and switch to Sprint.[103]
-2017,Wireless,T-Mobile """#BagOfUnlimited""",Martha Stewart and Snoop Dogg explain an unlimited data plan using cannabis-related puns.[104]
-2017,Wireless,T-Mobile """#NSFWireless""",Kristen Schaal suggestively speaks with a Verizon Wireless customer service agent on the phone.[105]
-2017,Wireless,T-Mobile """#Punished""","Kristen Schaal enjoys being ""punished"" with the ""pain"" of Verizon Wireless' hidden fees and charges, which is said to be ""fine, if you're into that sort of thing.""[103][104][106]"
-2017,Wireless,T-Mobile """#UnlimitedMoves""",Justin Bieber presents a history of touchdown celebrations.[103][104][107]
+2017,Wireless,"Sprint """"""No Need For Extreme Measures""""""",A person drops a car to fake his own death in order to cancel his contract with Verizon Wireless and switch to Sprint.[103]
+2017,Wireless,"T-Mobile """"""#BagOfUnlimited""""""",Martha Stewart and Snoop Dogg explain an unlimited data plan using cannabis-related puns.[104]
+2017,Wireless,"T-Mobile """"""#NSFWireless""""""",Kristen Schaal suggestively speaks with a Verizon Wireless customer service agent on the phone.[105]
+2017,Wireless,"T-Mobile """"""#Punished""""""","Kristen Schaal enjoys being ""punished"" with the ""pain"" of Verizon Wireless' hidden fees and charges, which is said to be ""fine, if you're into that sort of thing.""[103][104][106]"
+2017,Wireless,"T-Mobile """"""#UnlimitedMoves""""""",Justin Bieber presents a history of touchdown celebrations.[103][104][107]
 2018,Product type,Advertiser/Product Title,Plot/Notes[108][109][110]
-2018,Airlines,Turkish Airlines """Five Senses""",Dr. Oz talks about discovering the world using the five senses.[111][112][113]
-2018,Beer,Budweiser """Stand by You""",A Budweiser employee who is working at Anheuser-Busch's Cartersville brewery gets called to work to donate canned water for disaster relief. The ad used real employees who worked at the brewery.[114][115]
-2018,Beer,Bud Light """Ye Olde Pep Talk""","A medieval king tries to motivate his small villager army who is vastly outnumbered, until he brings up the fact that they are out of Bud Light and that the enemy has cases of them.[116]"
-2018,Beer,Bud Light """The Bud Knight""","The big battle is interrupted by the Bud Knight, who is on his own quest.[116][117]"
-2018,Beer,Michelob Ultra """The Perfect Fit""",Chris Pratt prepares for his acting gig as a spokesman.[118][112]
-2018,Beer,Michelob Ultra """I Like Beer""","Chris Pratt sings ""I Like Beer"" (a song by Tom T. Hall, covered by Jon Pardi) along with a bunch of people working out.[112][119]"
-2018,Candy,M&M's """Human""",Red M&M picks up a magic penny on the ground and uses a wish to transform into a human (Danny Devito).[120]
-2018,Car accessories,WeatherTech """American Factory""",The building of a WeatherTech factory in the U.S. is shown.[112]
-2018,Car,Ram Trucks """Built to Serve""",Martin Luther King Jr. speaks about the virtues of serving others.[112][121][122]
-2018,Car,Ram 1500 """Icelandic Vikings""","Vikings drive a Dodge Ram and their boat into Minneapolis to the tune of Queen's ""We Will Rock You"", only to turn around when they find out their team is not playing.[112][123]"
-2018,Car,Hyundai """Hope Detector""",Hyundai owners that attended the Super Bowl Experience are brought aside to meet cancer patients who were helped by Hyundai's donations to cancer research.[112]
-2018,Car,Jeep Wrangler """Anti-Manifesto""","As a Wrangler drives through a river, a narrator explains that this particular commercial would not feature ""grandiose speeches and big declarations"", and would instead be an ""anti-manifesto"".[112][124]"
-2018,Car,Jeep Wrangler Rubicon """Jeep Jurassic""",Jeff Goldblum re-lives driving in Jurassic Park[112][125]
-2018,Car,Jeep Cherokee """The Road""",[112][126]
-2018,Car,Kia Stinger """Feel Something Again""",An old Steven Tyler rewinds time by driving his Kia backwards on a race track. Features race car driver Emerson Fittipaldi[127][128][112]
-2018,Car / Film,"Lexus LS 500 F Sport  Black Panther","""Long Live the King""","After defeating an opponent to secure an item, the Black Panther follows a Lexus LS 500 F Sport and jumps through its sunroof where he transforms back to T'Challa.[115][112]"
-2018,Car,Toyota """Good Odds""","Follows the odds of a paralympic skier of winning a gold medal, with the odds being reduced bit by bit as the woman grows and trains, and eventually reveals to be gold medalist Lauren Woolstencroft.[112][129][130]"
-2018,Car,Toyota """Mobility Anthem""",The idea of mobility is portrayed as a broad concept unifies people of all ages and abilities.[131][112][132]
-2018,Car,Toyota """One Team""","A priest, a rabbi, and an imam carpool to the game together.[112]"
-2018,Cleaner,Febreze """The Only Man Whose Bleep Doesn't Stink""",Dave's family and friends remark that Dave's Bleep doesn't stink.[115]
-2018,Drink,Stella Artois and Water.org """Taps""","Matt Damon asks that if 1% of the people watching the ad buy the beer, the company will give clean water to one million people for five years.[118]"
+2018,Airlines,"Turkish Airlines """"""Five Senses""""""",Dr. Oz talks about discovering the world using the five senses.[111][112][113]
+2018,Beer,"Budweiser """"""Stand by You""""""",A Budweiser employee who is working at Anheuser-Busch's Cartersville brewery gets called to work to donate canned water for disaster relief. The ad used real employees who worked at the brewery.[114][115]
+2018,Beer,"Bud Light """"""Ye Olde Pep Talk""""""","A medieval king tries to motivate his small villager army who is vastly outnumbered, until he brings up the fact that they are out of Bud Light and that the enemy has cases of them.[116]"
+2018,Beer,"Bud Light """"""The Bud Knight""""""","The big battle is interrupted by the Bud Knight, who is on his own quest.[116][117]"
+2018,Beer,"Michelob Ultra """"""The Perfect Fit""""""",Chris Pratt prepares for his acting gig as a spokesman.[118][112]
+2018,Beer,"Michelob Ultra """"""I Like Beer""""""","Chris Pratt sings ""I Like Beer"" (a song by Tom T. Hall, covered by Jon Pardi) along with a bunch of people working out.[112][119]"
+2018,Candy,"M&M's """"""Human""""""",Red M&M picks up a magic penny on the ground and uses a wish to transform into a human (Danny Devito).[120]
+2018,Car accessories,"WeatherTech """"""American Factory""""""",The building of a WeatherTech factory in the U.S. is shown.[112]
+2018,Car,"Ram Trucks """"""Built to Serve""""""",Martin Luther King Jr. speaks about the virtues of serving others.[112][121][122]
+2018,Car,"Ram 1500 """"""Icelandic Vikings""""""","Vikings drive a Dodge Ram and their boat into Minneapolis to the tune of Queen's ""We Will Rock You"", only to turn around when they find out their team is not playing.[112][123]"
+2018,Car,"Hyundai """"""Hope Detector""""""",Hyundai owners that attended the Super Bowl Experience are brought aside to meet cancer patients who were helped by Hyundai's donations to cancer research.[112]
+2018,Car,"Jeep Wrangler """"""Anti-Manifesto""""""","As a Wrangler drives through a river, a narrator explains that this particular commercial would not feature ""grandiose speeches and big declarations"", and would instead be an ""anti-manifesto"".[112][124]"
+2018,Car,"Jeep Wrangler Rubicon """"""Jeep Jurassic""""""",Jeff Goldblum re-lives driving in Jurassic Park[112][125]
+2018,Car,"Jeep Cherokee """"""The Road""""""",[112][126]
+2018,Car,"Kia Stinger """"""Feel Something Again""""""",An old Steven Tyler rewinds time by driving his Kia backwards on a race track. Features race car driver Emerson Fittipaldi[127][128][112]
+2018,Car / Film,Lexus LS 500 F Sport  Black Panther,"""Long Live the King"""
+2018,Car,"Toyota """"""Good Odds""""""","Follows the odds of a paralympic skier of winning a gold medal, with the odds being reduced bit by bit as the woman grows and trains, and eventually reveals to be gold medalist Lauren Woolstencroft.[112][129][130]"
+2018,Car,"Toyota """"""Mobility Anthem""""""",The idea of mobility is portrayed as a broad concept unifies people of all ages and abilities.[131][112][132]
+2018,Car,"Toyota """"""One Team""""""","A priest, a rabbi, and an imam carpool to the game together.[112]"
+2018,Cleaner,"Febreze """"""The Only Man Whose Bleep Doesn't Stink""""""",Dave's family and friends remark that Dave's Bleep doesn't stink.[115]
+2018,Drink,"Stella Artois and Water.org """"""Taps""""""","Matt Damon asks that if 1% of the people watching the ad buy the beer, the company will give clean water to one million people for five years.[118]"
 2018,Film,Avengers: Infinity War N/A,TV trailer[133]
 2018,Film,The Cloverfield Paradox (Netflix) N/A,TV trailer[133] The film became available on Netflix immediately following the conclusion of the game.[134]
 2018,Film,Mission: Impossible – Fallout N/A,Trailer[133]
 2018,Film,A Quiet Place ,
 2018,Film,Skyscraper N/A,TV trailer[133]
 2018,Film,Solo: A Star Wars Story N/A,TV promo[127]
-2018,Food,Avocados From Mexico """#GuacWorld""",A utopian society sealed from the rest of the world realize that their tortilla chips for their guacamole are outside.[112][135][136]
-2018,Food,Jack in the Box """Jack vs. Martha""","Jack interrupts Martha Stewart's show in order to show off his newest creations. Martha then challenges Jack, pulling his nose off.[137]"
-2018,Food,Kraft Foods """Family Greatly""",Kraft assembles a montage of photos and videos from families celebrating game day.[138][139]
-2018,Food,Pringles """Wow 2018""" Bill Hader and other actors remark about stacking different flavored Pringles.[115][140][141]
-2018,Food,Wendy's """Iceberg""","Wendy's slams McDonald's for using flash-frozen beef patties, likening being frozen to the iceberg and the Titanic.[112][142]"
-2018,Food / Drink,Doritos and Mountain Dew """Doritos Blaze vs. Mtn Dew Ice""","Peter Dinklage and Morgan Freeman perform a lip-sync rap battle with Dinklage lip-syncing to a Busta Rhymes performed verse of Chris Brown's ""Look at Me Now"" and Freeman to ""Get Ur Freak On"" by Missy Elliott[143][144]"
+2018,Food,"Avocados From Mexico """"""#GuacWorld""""""",A utopian society sealed from the rest of the world realize that their tortilla chips for their guacamole are outside.[112][135][136]
+2018,Food,"Jack in the Box """"""Jack vs. Martha""""""","Jack interrupts Martha Stewart's show in order to show off his newest creations. Martha then challenges Jack, pulling his nose off.[137]"
+2018,Food,"Kraft Foods """"""Family Greatly""""""",Kraft assembles a montage of photos and videos from families celebrating game day.[138][139]
+2018,Food,"Pringles """"""Wow 2018"""""" Bill Hader and other actors remark about stacking different flavored Pringles.[115][140][141]",
+2018,Food,"Wendy's """"""Iceberg""""""","Wendy's slams McDonald's for using flash-frozen beef patties, likening being frozen to the iceberg and the Titanic.[112][142]"
+2018,Food / Drink,"Doritos and Mountain Dew """"""Doritos Blaze vs. Mtn Dew Ice""""""","Peter Dinklage and Morgan Freeman perform a lip-sync rap battle with Dinklage lip-syncing to a Busta Rhymes performed verse of Chris Brown's ""Look at Me Now"" and Freeman to ""Get Ur Freak On"" by Missy Elliott[143][144]"
 2018,Headphones,Monster N/A,"A guy on the subway (RiceGum) is inspired by Iggy Azalea to create a new set of Monster headphones. Also features Joe Perry, Joey Fatone, Yo Gotti and others.[145]"
-2018,Investments,E-Trade """This Is Getting Old""","Shows a number of senior citizens who are still trying to do physically active jobs because they don't have enough to retire. Played to ""Day-O (The Banana Boat Song)""[112][146]"
-2018,Laundry detergent,Persil """Game-time Stain-time""",The Professional steps out of a big screen to clean a guacamole stain off a viewer's shirt.[147][112][148][149]
-2018,Laundry detergent,Tide """It's a Tide Ad""","David Harbour examines several typical types of commercials one would see during the Super Bowl, only to reveal that they're all actually Tide ads because they have clean clothes.[150][112][151]"
-2018,Laundry detergent,Tide """It's Another Tide Ad""",The Old Spice Guy (Isaiah Mustafa) is interrupted when his ad suddenly becomes a Tide ad.[151]
-2018,Laundry detergent,Tide """It's Yet Another Tide Ad""","A beer commercial with clydesdales, and the Mr. Clean commercial from the previous game, are similarly hijacked by Tide ads.[151]"
-2018,Laundry detergent,Tide """It's Yet Another Tide Ad, Again""","A woman playing tennis hurts her back, so David Harbour arrives and pitches Tide detergent.[151]"
-2018,Loans,Rocket Mortgage """Translator""","Keegan-Michael Key helps translate for people the words of a hair stylist, a waiter, Big Sean's rap music and a loan officer.[112][152][152]"
-2018,Retail,Groupon """Who Wouldn't""",Tiffany Haddish talks about how using Groupon supports local businesses.[153][115][154]
-2018,Shoes,Skechers """First Class for your Feet""",Howie Long gets a seat upgrade.[155][156]
-2018,Soft drink,Coca-Cola """The Wonder of Us""",People of various cultures read lines from a poem about a Coke for them.[118]
-2018,Soft drink,Diet Coke """Groove""","Actress Hayley Magnus tries the Diet Coke Twisted Mango flavor, and can't help dancing afterwards.[112][157]"
-2018,Soft drink,Pepsi """This Is the Pepsi""","Jimmy Fallon narrates about some of the celebrities who have appeared in Pepsi commercials, with footage of Britney Spears and Michael Jackson. Cindy Crawford re-creates her Pepsi drinking moment, and her teenage son Presley Gerber appears. Kyrie Irving appears as Uncle Drew, and Jeff Gordon also appears.[118][158] This was the lead-in commercial to the halftime show."
-2018,Sports,2018 Winter Olympics (NBC) """Best of U.S.: Lindsey Vonn""","Skier Lindsey Vonn prepares for the 2018 Winter Olympics. Other ads for Chloe Kim  Mikaela Shiffrin, Nathan Chen  and Shaun White were prepared.[159][160] Shaun White's ad was the first ad played after the game ended."
-2018,Sports,2018 Winter Olympics (NBC) N/A A number of promotions by NBC for their Olympic coverage.
-2018,Sports,NFL """Touchdown Celebrations to Come""","After multiple teaser ads, Eli Manning and Odell Beckham Jr. re-create an iconic scene from Dirty Dancing.[112][127]"
-2018,Sports,NFL """Next Season Starts Now""","Featuring Jalen Ramsey, Marquette King, Devonta Freeman, Jared Goff, Stefon Diggs and Travis Kelce. Also stars NBA player Nick Young, who at the time was playing for the Golden State Warriors. [161]"
-2018,Sports,2018 FIFA World Cup (Telemundo) """Telemundo ya prepara su mejor grito gol para Rusia 2018""","Andrés Cantor lets out his signature goal call over footage from previous FIFA World Cups  ending with a mic drop.[162]"
-2018,Tax preparation,Intuit """Giant Skip Ad""","A brief ad that discusses how people don't like to watch ads and want to skip it. Shows the characters from their CG-animated full short film  ""A Giant Story"" which was posted in advance.[118][112][163]"
-2018,Tax preparation,TurboTax """The Noise in the Attic""",A sheeted ghost in the attic approaches an open laptop where a representative talks about their tax software program.[112]
-2018,Tax preparation,TurboTax """The Thing Under the Bed""",Features CG-animated boogeyman talking about how easy it is to answer the questions in the software program.[112]
-2018,Technology,Amazon Echo """Alexa Loses Her Voice""","When Alexa loses her voice, Amazon representatives tell their CEO Jeff Bezos that they have replacement voices ready, which turn out to be celebrities such as Gordon Ramsay, Cardi B, Rebel Wilson and others.[164][165]"
+2018,Investments,"E-Trade """"""This Is Getting Old""""""","Shows a number of senior citizens who are still trying to do physically active jobs because they don't have enough to retire. Played to ""Day-O (The Banana Boat Song)""[112][146]"
+2018,Laundry detergent,"Persil """"""Game-time Stain-time""""""",The Professional steps out of a big screen to clean a guacamole stain off a viewer's shirt.[147][112][148][149]
+2018,Laundry detergent,"Tide """"""It's a Tide Ad""""""","David Harbour examines several typical types of commercials one would see during the Super Bowl, only to reveal that they're all actually Tide ads because they have clean clothes.[150][112][151]"
+2018,Laundry detergent,"Tide """"""It's Another Tide Ad""""""",The Old Spice Guy (Isaiah Mustafa) is interrupted when his ad suddenly becomes a Tide ad.[151]
+2018,Laundry detergent,"Tide """"""It's Yet Another Tide Ad""""""","A beer commercial with clydesdales, and the Mr. Clean commercial from the previous game, are similarly hijacked by Tide ads.[151]"
+2018,Laundry detergent,"Tide """"""It's Yet Another Tide Ad"," Again"""""""
+2018,Loans,"Rocket Mortgage """"""Translator""""""","Keegan-Michael Key helps translate for people the words of a hair stylist, a waiter, Big Sean's rap music and a loan officer.[112][152][152]"
+2018,Retail,"Groupon """"""Who Wouldn't""""""",Tiffany Haddish talks about how using Groupon supports local businesses.[153][115][154]
+2018,Shoes,"Skechers """"""First Class for your Feet""""""",Howie Long gets a seat upgrade.[155][156]
+2018,Soft drink,"Coca-Cola """"""The Wonder of Us""""""",People of various cultures read lines from a poem about a Coke for them.[118]
+2018,Soft drink,"Diet Coke """"""Groove""""""","Actress Hayley Magnus tries the Diet Coke Twisted Mango flavor, and can't help dancing afterwards.[112][157]"
+2018,Soft drink,"Pepsi """"""This Is the Pepsi""""""","Jimmy Fallon narrates about some of the celebrities who have appeared in Pepsi commercials, with footage of Britney Spears and Michael Jackson. Cindy Crawford re-creates her Pepsi drinking moment, and her teenage son Presley Gerber appears. Kyrie Irving appears as Uncle Drew, and Jeff Gordon also appears.[118][158] This was the lead-in commercial to the halftime show."
+2018,Sports,"2018 Winter Olympics (NBC) """"""Best of U.S.: Lindsey Vonn""""""","Skier Lindsey Vonn prepares for the 2018 Winter Olympics. Other ads for Chloe Kim  Mikaela Shiffrin, Nathan Chen  and Shaun White were prepared.[159][160] Shaun White's ad was the first ad played after the game ended."
+2018,Sports,2018 Winter Olympics (NBC) N/A A number of promotions by NBC for their Olympic coverage.,
+2018,Sports,"NFL """"""Touchdown Celebrations to Come""""""","After multiple teaser ads, Eli Manning and Odell Beckham Jr. re-create an iconic scene from Dirty Dancing.[112][127]"
+2018,Sports,"NFL """"""Next Season Starts Now""""""","Featuring Jalen Ramsey, Marquette King, Devonta Freeman, Jared Goff, Stefon Diggs and Travis Kelce. Also stars NBA player Nick Young, who at the time was playing for the Golden State Warriors. [161]"
+2018,Sports,"2018 FIFA World Cup (Telemundo) """"""Telemundo ya prepara su mejor grito gol para Rusia 2018""""""",Andrés Cantor lets out his signature goal call over footage from previous FIFA World Cups  ending with a mic drop.[162]
+2018,Tax preparation,"Intuit """"""Giant Skip Ad""""""","A brief ad that discusses how people don't like to watch ads and want to skip it. Shows the characters from their CG-animated full short film  ""A Giant Story"" which was posted in advance.[118][112][163]"
+2018,Tax preparation,"TurboTax """"""The Noise in the Attic""""""",A sheeted ghost in the attic approaches an open laptop where a representative talks about their tax software program.[112]
+2018,Tax preparation,"TurboTax """"""The Thing Under the Bed""""""",Features CG-animated boogeyman talking about how easy it is to answer the questions in the software program.[112]
+2018,Technology,"Amazon Echo """"""Alexa Loses Her Voice""""""","When Alexa loses her voice, Amazon representatives tell their CEO Jeff Bezos that they have replacement voices ready, which turn out to be celebrities such as Gordon Ramsay, Cardi B, Rebel Wilson and others.[164][165]"
 2018,TV series,Castle Rock (Hulu) N/A,TV promo[118]
 2018,TV series,Good Girls (NBC) N/A,TV promo
 2018,TV series,Rise (NBC) N/A,TV promo[166]
@@ -490,37 +490,37 @@ Year,Product Type,Product/Title,Plot/Notes
 2018,TV series,Today (NBC) N/A,TV promo
 2018,TV series,Tom Clancy's Jack Ryan (Amazon Prime) N/A,Trailer[167]
 2018,TV series,Unsolved: The Murders of Tupac & the Notorious B.I.G. (USA Network) N/A,TV promo
-2018,TV series,The Voice  (NBC) """The Voice Super Commercial""","Blake Shelton, Adam Levine, Alicia Keys and Kelly Clarkson do a country-styled video to promote the new season of The Voice.[168][169]"
+2018,TV series,"The Voice  (NBC) """"""The Voice Super Commercial""""""","Blake Shelton, Adam Levine, Alicia Keys and Kelly Clarkson do a country-styled video to promote the new season of The Voice.[168][169]"
 2018,TV series,Westworld season 2 (HBO) N/A,TV promo[170][127]
 2018,TV special,Jesus Christ Superstar Live in Concert (NBC) N/A,TV promo
-2018,Travel,Tourism Australia """Dundee""","A trailer for Dundee, a Crocodile Dundee reboot supposedly starring Danny McBride and Chris Hemsworth, reveals itself to be an ad for travel to Australia.[171]"
-2018,Travel,Universal Parks & Resorts """In Game""a.k.a. ""Peyton Manning: Vacation Quarterback""",Peyton Manning and his family visit a Universal theme park.[118][112]
-2018,Video game,Heroes Arena """Conquer Your Battles""",[172][173]
-2018,Website,Blacture """Be Celebrated""",Fugee members talk about a new website that celebrates black excellence.[112][174]
-2018,Website,Squarespace """Make It With Keanu Reeves""","Keanu Reeves rides his motorcycle in the middle of a desert highway while standing on it as he cites lines from Will Power's ""Adventures In Success"".[175][112][176]"
-2018,Website,Wix.com """Rhett & Link""",Internet YouTuber comedians Rhett and Link use Wix.com to create a website.[112][177]
-2018,Wireless,Sprint """Evelyn""","A doctor was analyzing Evelyn's artificial intelligence when she notices that his phone was under Verizon, causing other robots in the lab to laugh at him. He tells the Sprint guy he is switching because his ""coworkers"" made fun of him.[178][112]"
-2018,Wireless,Verizon Wireless """Remember the First Responders""",10-second clip after the halftime show where Justin Timberlake thanks the first responders.[112][179]
-2018,Wireless,Verizon Wireless """Answering the Call""",60-second commercial slide montage of first responders in action.[112][179]
-2018,Wireless,T-Mobile """Little Ones""",Babies of various races look up to a camera where a woman's spoke tells them social messages.[112][121]
+2018,Travel,"Tourism Australia """"""Dundee""""""","A trailer for Dundee, a Crocodile Dundee reboot supposedly starring Danny McBride and Chris Hemsworth, reveals itself to be an ad for travel to Australia.[171]"
+2018,Travel,"Universal Parks & Resorts """"""In Game""""a.k.a. """"Peyton Manning: Vacation Quarterback""""""",Peyton Manning and his family visit a Universal theme park.[118][112]
+2018,Video game,"Heroes Arena """"""Conquer Your Battles""""""",[172][173]
+2018,Website,"Blacture """"""Be Celebrated""""""",Fugee members talk about a new website that celebrates black excellence.[112][174]
+2018,Website,"Squarespace """"""Make It With Keanu Reeves""""""","Keanu Reeves rides his motorcycle in the middle of a desert highway while standing on it as he cites lines from Will Power's ""Adventures In Success"".[175][112][176]"
+2018,Website,"Wix.com """"""Rhett & Link""""""",Internet YouTuber comedians Rhett and Link use Wix.com to create a website.[112][177]
+2018,Wireless,"Sprint """"""Evelyn""""""","A doctor was analyzing Evelyn's artificial intelligence when she notices that his phone was under Verizon, causing other robots in the lab to laugh at him. He tells the Sprint guy he is switching because his ""coworkers"" made fun of him.[178][112]"
+2018,Wireless,"Verizon Wireless """"""Remember the First Responders""""""",10-second clip after the halftime show where Justin Timberlake thanks the first responders.[112][179]
+2018,Wireless,"Verizon Wireless """"""Answering the Call""""""",60-second commercial slide montage of first responders in action.[112][179]
+2018,Wireless,"T-Mobile """"""Little Ones""""""",Babies of various races look up to a camera where a woman's spoke tells them social messages.[112][121]
 2019,Product type,Advertiser/product Title,Plot/Notes
-2019,Alcohol,Bon & Viv Spiked Seltzer """The Pitch""","Two mermaids ""pitch"" Bon & Viv Spiked Seltzer to actual sharks.[180]"
-2019,Alcohol,Bud Light """Special Delivery""","The Bud Light King mistakenly receives a gigantic barrel of corn syrup, which his followers attempt to gift to Coors Light and Miller Lite instead, since Bud Light does not use corn syrup as an ingredient.[181][182]"
-2019,Alcohol / TV series,"Bud Light  Game of Thrones","""Joust""",The Bud Knight is defeated in a jousting match by The Mountain.[183][184]
-2019,Alcohol,Budweiser """Wind Never Felt Better""","A dalmatian rides a cart pulled by the Clydesdales through a wind farm at Tejon Ranch, promoting the brand's commitment to using renewable energy in its production process.[185][186]"
-2019,Alcohol,Hennessy """Major""",Track cyclist of the 1890s and 1900s Major Taylor reaches the end of a race where the only competitor is himself.[187][188]
-2019,Alcohol,Michelob Ultra """Robots""",
-2019,Alcohol,Michelob Ultra Pure Gold """The Pure Experience""","Zoë Kravitz invites viewers to experience an ASMR sensation inspired by the new lite ""Pure Gold"" brew.[189][190]"
-2019,Alcohol,Stella Artois """Change Up the Usual""","At a bar, Sarah Jessica Parker decides to order a Stella Artois rather than a cosmopolitan (the signature drink of her Sex and the City character Carrie Bradshaw). Jeff Bridges (in a portrayal of his The Big Lebowski character ""The Dude"") follows suit by similarly declining a White Russian in favor of a ""Stella Artose"".[191]"
-2019,Beverage,Bubly sparkling water """Bublé vs. Bubly""","At a store, singer Michael Bublé insists on pronouncing the name of Bubly as ""Bublé"", even after another customer and a clerk (whom Bublé refers to as ""Davé"") corrects him.[192][193]"
-2019,Beverage,Pepsi """More Than OK""",
-2019,Candy,M&M's Chocolate Bar """Bad Passenger""","The M&M's characters fight in the backseat of a car driven by Christina Applegate, who threatens to ""break them apart"" and eat them if they don't behave: it is revealed that they had been embedded in a chocolate bar."
-2019,Car,Audi e-tron GT """Cashew""","A man encounters his grandfather at an isolated house in a field, where he shows him an Audi e-tron GT in his garage. Just as the man is about to drive it, it is revealed that this was only a dream, and that the man was actually at work choking on a cashew.[194]"
-2019,Car,Hyundai Shopper Assurance """The Elevator""","Jason Bateman mans an elevator taking people to floors reflecting life experiences they don't always look forward to (such as a dentist appointment and a vegan dinner party). When a couple is sent to a floor for car shopping, Bateman is told that they were actually getting a Hyundai, and had used Shopper Assurance to pick a vehicle and schedule a test drive without haggling with a salesperson.[195][196]"
-2019,Car,Kia Telluride """Give It Everything""","The city of West Point, Georgia is revitalized by the opening of a Kia factory there."
-2019,Car,Mercedes-Benz A-Class """Say The Word""","A man uses his voice to control real life, just as he can control the entertainment system on his A-Class."
-2019,Car,Toyota RAV4 Hybrid """Toni""","Jim Nantz narrates a story on challenging expectations, focusing on female football player Antoinette Harris.[197][198]"
-2019,Car,Toyota Supra """Wizard""","To The Who's ""Pinball Wizard"", the Toyota Supra drives through a giant pinball machine."
+2019,Alcohol,"Bon & Viv Spiked Seltzer """"""The Pitch""""""","Two mermaids ""pitch"" Bon & Viv Spiked Seltzer to actual sharks.[180]"
+2019,Alcohol,"Bud Light """"""Special Delivery""""""","The Bud Light King mistakenly receives a gigantic barrel of corn syrup, which his followers attempt to gift to Coors Light and Miller Lite instead, since Bud Light does not use corn syrup as an ingredient.[181][182]"
+2019,Alcohol / TV series,Bud Light  Game of Thrones,"""Joust"""
+2019,Alcohol,"Budweiser """"""Wind Never Felt Better""""""","A dalmatian rides a cart pulled by the Clydesdales through a wind farm at Tejon Ranch, promoting the brand's commitment to using renewable energy in its production process.[185][186]"
+2019,Alcohol,"Hennessy """"""Major""""""",Track cyclist of the 1890s and 1900s Major Taylor reaches the end of a race where the only competitor is himself.[187][188]
+2019,Alcohol,"Michelob Ultra """"""Robots""""""",
+2019,Alcohol,"Michelob Ultra Pure Gold """"""The Pure Experience""""""","Zoë Kravitz invites viewers to experience an ASMR sensation inspired by the new lite ""Pure Gold"" brew.[189][190]"
+2019,Alcohol,"Stella Artois """"""Change Up the Usual""""""","At a bar, Sarah Jessica Parker decides to order a Stella Artois rather than a cosmopolitan (the signature drink of her Sex and the City character Carrie Bradshaw). Jeff Bridges (in a portrayal of his The Big Lebowski character ""The Dude"") follows suit by similarly declining a White Russian in favor of a ""Stella Artose"".[191]"
+2019,Beverage,"Bubly sparkling water """"""Bublé vs. Bubly""""""","At a store, singer Michael Bublé insists on pronouncing the name of Bubly as ""Bublé"", even after another customer and a clerk (whom Bublé refers to as ""Davé"") corrects him.[192][193]"
+2019,Beverage,"Pepsi """"""More Than OK""""""",
+2019,Candy,"M&M's Chocolate Bar """"""Bad Passenger""""""","The M&M's characters fight in the backseat of a car driven by Christina Applegate, who threatens to ""break them apart"" and eat them if they don't behave: it is revealed that they had been embedded in a chocolate bar."
+2019,Car,"Audi e-tron GT """"""Cashew""""""","A man encounters his grandfather at an isolated house in a field, where he shows him an Audi e-tron GT in his garage. Just as the man is about to drive it, it is revealed that this was only a dream, and that the man was actually at work choking on a cashew.[194]"
+2019,Car,"Hyundai Shopper Assurance """"""The Elevator""""""","Jason Bateman mans an elevator taking people to floors reflecting life experiences they don't always look forward to (such as a dentist appointment and a vegan dinner party). When a couple is sent to a floor for car shopping, Bateman is told that they were actually getting a Hyundai, and had used Shopper Assurance to pick a vehicle and schedule a test drive without haggling with a salesperson.[195][196]"
+2019,Car,"Kia Telluride """"""Give It Everything""""""","The city of West Point, Georgia is revitalized by the opening of a Kia factory there."
+2019,Car,"Mercedes-Benz A-Class """"""Say The Word""""""","A man uses his voice to control real life, just as he can control the entertainment system on his A-Class."
+2019,Car,"Toyota RAV4 Hybrid """"""Toni""""""","Jim Nantz narrates a story on challenging expectations, focusing on female football player Antoinette Harris.[197][198]"
+2019,Car,"Toyota Supra """"""Wizard""""""","To The Who's ""Pinball Wizard"", the Toyota Supra drives through a giant pinball machine."
 2019,Film,Alita: Battle Angel N/A,Promo
 2019,Film,Avengers: Endgame N/A,Teaser
 2019,Film,Captain Marvel N/A,Promo
@@ -529,36 +529,36 @@ Year,Product Type,Product/Title,Plot/Notes
 2019,Film,Toy Story 4 N/A,Teaser
 2019,Film,Us N/A,Promo
 2019,Film,Wonder Park N/A,Trailer
-2019,Food,Avocados from Mexico """Top Dog""",
-2019,Food,Burger King """#EatLikeAndy""",Footage of Andy Warhol eating a Whopper from the film 66 Scenes from America.[199]
-2019,Food,Flamin' Hot Doritos """Now It's Hot""","Chance the Rapper raps over the Backstreet Boys' ""I Want It That Way"" to make the original ""hot"".[200]"
-2019,Food,Pringles """Sad Device""","A smart speaker emotionally resents not being able to stack Pringles because it doesn't have hands, but is interrupted when its asked to play ""Funkytown"" instead."
-2019,Smart speaker,Amazon Echo """Not Everything Makes the Cut""","A series of rejected ideas for Alexa-powered products are presented, including an electric toothbrush, a dog collar with bark recognition (which causes Harrison Ford's dog to repeatedly order dog food), hot tub (which triggers an extravagant water show when playing music), and space station (which causes an ""incident"" affecting electrical power worldwide).[20 ]"
-2019,NFL,NFL centennial season """The 100-Year Game""","Marshawn Lynch tries to steal a slice of cake at a gala celebrating the NFL's 100th season, but knocks a football centerpiece off in the process—instigating a fight for the ball involving a cast of current and past players. The ad also features appearances by Sarah Thomas (the NFL's first female official), and video game streamer Ninja.[202][203][204]"
-2019,Store,Walmart Grocery Pickup """Famous Cars""",A number of iconic vehicles from film and television visit a Walmart store to use its Grocery Pickup service. This ad originally premiered during the 20 9 Golden Globe Awards.[205][206][207]
+2019,Food,"Avocados from Mexico """"""Top Dog""""""",
+2019,Food,"Burger King """"""#EatLikeAndy""""""",Footage of Andy Warhol eating a Whopper from the film 66 Scenes from America.[199]
+2019,Food,"Flamin' Hot Doritos """"""Now It's Hot""""""","Chance the Rapper raps over the Backstreet Boys' ""I Want It That Way"" to make the original ""hot"".[200]"
+2019,Food,"Pringles """"""Sad Device""""""","A smart speaker emotionally resents not being able to stack Pringles because it doesn't have hands, but is interrupted when its asked to play ""Funkytown"" instead."
+2019,Smart speaker,"Amazon Echo """"""Not Everything Makes the Cut""""""","A series of rejected ideas for Alexa-powered products are presented, including an electric toothbrush, a dog collar with bark recognition (which causes Harrison Ford's dog to repeatedly order dog food), hot tub (which triggers an extravagant water show when playing music), and space station (which causes an ""incident"" affecting electrical power worldwide).[20 ]"
+2019,NFL,"NFL centennial season """"""The 100-Year Game""""""","Marshawn Lynch tries to steal a slice of cake at a gala celebrating the NFL's 100th season, but knocks a football centerpiece off in the process—instigating a fight for the ball involving a cast of current and past players. The ad also features appearances by Sarah Thomas (the NFL's first female official), and video game streamer Ninja.[202][203][204]"
+2019,Store,"Walmart Grocery Pickup """"""Famous Cars""""""",A number of iconic vehicles from film and television visit a Walmart store to use its Grocery Pickup service. This ad originally premiered during the 20 9 Golden Globe Awards.[205][206][207]
 2019,TV series,The Handmaid's Tale season 3 (Hulu) N/A,"The ad opens with scenes and narration based on Ronald Reagan's ""Morning in America"" campaign advertisement, but is interrupted by violent scenes of the series' dystopian society.[208][209]"
 2019,TV series,Hanna (Amazon Video) N/A,"Promo. A special preview release of the premiere episode became available for streaming for 24 hours, beginning at 9:30 p.m. ET, intended to be watched after the game.[210][211]"
 2019,TV series,The Late Show with Stephen Colbert (CBS) N/A,"A song and dance number promoting a special episode after the game is interrupted by ""CBS Sports Breaking News"", with James Brown informing viewers that ""today is the Super Bowl"". By the time the ad returns, the number had already ended."
 2019,TV series,The Twilight Zone (CBS All Access) N/A,"After a fake interruption of CBS's Super Bowl telecast, Jordan Peele addresses an empty Mercedes-Benz Stadium, asking viewers to question their reality.[212]"
-2019,Video gaming,Xbox Adaptive Controller """We All Win""","Owen Sirmons, a child with Escobar syndrome, is able to play video games using Microsoft's Xbox Adaptive Controller.[213][214][215]"
-2019,Wireless,T-Mobile """Dad?!""",A father accidentally texts someone on searching to make eggplant parmigiana.[216]
+2019,Video gaming,"Xbox Adaptive Controller """"""We All Win""""""","Owen Sirmons, a child with Escobar syndrome, is able to play video games using Microsoft's Xbox Adaptive Controller.[213][214][215]"
+2019,Wireless,"T-Mobile """"""Dad?!""""""",A father accidentally texts someone on searching to make eggplant parmigiana.[216]
 2019,Wireless,T-Mobile ,"""Mike"" responds to a text message to what is actually a Lyft driver.[217]"
-2019,Wireless,T-Mobile """We'll Keep This Brief""",A person texts to Cathy to check on her only to very long lengthy response about her day.[218]
-2019,Wireless,T-Mobile """What's for Dinner?""","In a conversation between the two, a person tries to figure out a response and while considering to eat between tacos and sushi.[219]"
-2020,Beer,Presidente """Never Left""" "Features Alex Rodriguez, co-owner and chairman of the brand, where he goes back to Miami where he grew up."
-2020,Car,Audi e-tron Sportback """Let it Go""" "Maisie Williams is stuck in a traffic jam surrounded by old vehicles. Singing ""Let It Go"", she passes by lowriders, a repair shop and a gas station, leaving the fossil-fuel world behind.[220]"
-2020,Car,Hyundai Sonata """Smaht Pahk""" "John Krasinski demonstrates the new ""Remote Smart Parking Assist"" feature of his Hyundai Sonata, which he refers to in a thick Boston accent as ""smaht pahk"". The ad also features appearances by fellow Bostonians Rachel Dratch, Chris Evans, and Boston Red Sox player David Ortiz.[221]"
-2020,Car,Genesis GV80 """Going Away Party""" "Chrissy Teigen throws a ""going-away party"" for ""old luxury"", in favor of ""young luxury"", symbolized by John Legend and a Genesis GV80.[222]"
-2020,Car,GMC Hummer EV """Quiet Revolution""" "Several scenes teasing aspects of the electric truck are followed by similar scenes in absolute silence, concluding with LeBron James sinking a slam dunk that smashes the backboard glass.[223]"
-2020,Car,Jeep """Groundhog Day""" "Groundhog Day commercial featuring Bill Murray as his character for the movie, meeting with Punxsutawney Phil again as he is currently in the time loop again; they enjoy 2/2/2020 with the Jeep Gladiator.[224]"
-2020,Car,Kia Seltos """Tough Never Quits""" "Rookie Josh Jacobs returns to his hometown of Tulsa, Oklahoma offering advice and inspiration to his younger self to overcome the challenges he faced on his path to the NFL.[225]"
-2020,Car,Toyota Highlander """Heroes""" "Driving a Toyota Highlander, Cobie Smulders saves the day in various movie tropes including a biological disaster, a western and an alien invasion with room to spare.[226]"
-2020,Car,Porsche Taycan """The Heist""" "Security professionals are alerted when the Porsche Taycan is stolen from an exhibit at the Porsche museum; in the ensuing chase numerous vehicles are used such as a 911 Carrera S, a 917 K and a 918 Spyder.[227]"
-2020,Film,F9  Trailer
-2020,Film,The Invisible Man  Trailer
-2020,Film,Mulan  Trailer
-2020,Food,Doritos """The Cool Ranch""" "Lil Nas X and Sam Elliott participate in a dance showdown to ""Old Town Road"".[228]"
-2020,Food,Planters """Tribute""" "Following his death in a previous ad, Mr. Peanut returns to life as a newborn child after the Kool-Aid Man's tears drip onto his grave.[229][230]"
-2020,Food,Pop-Tarts Pretzel """Pop-Tarts Fixed the Pretzel""" "Jonathan Van Ness serves as spokesperson for Pop-Tarts Pretzel, promoting it as an alternative to ""boring"" pretzels[231]"
-"Food, TV series","Pringles, Rick and Morty",,"After Morty enthusiastically enters the living room to promote various Pringles products, Rick exposes him as being a robot, and realizes he is trapped in a Pringles commercial.[232]"
-2020,Website,Facebook  "Facebook groups ""Ready to Rock"" featuring different groups with the word rock in it. Surprisingly featuring Chris Rock and Sylvester Stallone known for his character Rocky Balboa in it."
+2019,Wireless,"T-Mobile """"""We'll Keep This Brief""""""",A person texts to Cathy to check on her only to very long lengthy response about her day.[218]
+2019,Wireless,"T-Mobile """"""What's for Dinner?""""""","In a conversation between the two, a person tries to figure out a response and while considering to eat between tacos and sushi.[219]"
+2020,Beer,"Presidente """"""Never Left"""""" ""Features Alex Rodriguez", co-owner and chairman of the brand
+2020,Car,"Audi e-tron Sportback """"""Let it Go"""""" ""Maisie Williams is stuck in a traffic jam surrounded by old vehicles. Singing """"Let It Go""""", she passes by lowriders
+2020,Car,"Hyundai Sonata """"""Smaht Pahk"""""" ""John Krasinski demonstrates the new """"Remote Smart Parking Assist"""" feature of his Hyundai Sonata"," which he refers to in a thick Boston accent as """"smaht pahk"""". The ad also features appearances by fellow Bostonians Rachel Dratch"
+2020,Car,"Genesis GV80 """"""Going Away Party"""""" ""Chrissy Teigen throws a """"going-away party"""" for """"old luxury"""""," in favor of """"young luxury"""""
+2020,Car,"GMC Hummer EV """"""Quiet Revolution"""""" ""Several scenes teasing aspects of the electric truck are followed by similar scenes in absolute silence"," concluding with LeBron James sinking a slam dunk that smashes the backboard glass.[223]"""
+2020,Car,"Jeep """"""Groundhog Day"""""" ""Groundhog Day commercial featuring Bill Murray as his character for the movie"," meeting with Punxsutawney Phil again as he is currently in the time loop again; they enjoy 2/2/2020 with the Jeep Gladiator.[224]"""
+2020,Car,"Kia Seltos """"""Tough Never Quits"""""" ""Rookie Josh Jacobs returns to his hometown of Tulsa"," Oklahoma offering advice and inspiration to his younger self to overcome the challenges he faced on his path to the NFL.[225]"""
+2020,Car,"Toyota Highlander """"""Heroes"""""" ""Driving a Toyota Highlander", Cobie Smulders saves the day in various movie tropes including a biological disaster
+2020,Car,"Porsche Taycan """"""The Heist"""""" ""Security professionals are alerted when the Porsche Taycan is stolen from an exhibit at the Porsche museum; in the ensuing chase numerous vehicles are used such as a 911 Carrera S"," a 917 K and a 918 Spyder.[227]"""
+2020,Film,F9  Trailer,
+2020,Film,The Invisible Man  Trailer,
+2020,Film,Mulan  Trailer,
+2020,Food,"Doritos """"""The Cool Ranch"""""" ""Lil Nas X and Sam Elliott participate in a dance showdown to """"Old Town Road"""".[228]""",
+2020,Food,"Planters """"""Tribute"""""" ""Following his death in a previous ad"," Mr. Peanut returns to life as a newborn child after the Kool-Aid Man's tears drip onto his grave.[229][230]"""
+2020,Food,"Pop-Tarts Pretzel """"""Pop-Tarts Fixed the Pretzel"""""" ""Jonathan Van Ness serves as spokesperson for Pop-Tarts Pretzel"," promoting it as an alternative to """"boring"""" pretzels[231]"""
+2020,"Food, TV series","Pringles, Rick and Morty","After Morty enthusiastically enters the living room to promote various Pringles products, Rick exposes him as being a robot, and realizes he is trapped in a Pringles commercial.[232]"
+2020,Website,"Facebook  ""Facebook groups """"Ready to Rock"""" featuring different groups with the word rock in it. Surprisingly featuring Chris Rock and Sylvester Stallone known for his character Rocky Balboa in it.""",
