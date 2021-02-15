@@ -13,7 +13,7 @@ After months of learning various skills from our Data Analysis Bootcamp. We were
 #### ETL (Extract, Transform and Load)<br>
 As a team, we had to brainstorm to figure out;<br>
 
-1. The sources of data that you will extract from<br>
+1. The sources of data that you will extract from.<br>
 
 2. The type of transformation needed for this data (cleaning, joining, filtering, aggregating, etc).<br>
 
@@ -43,7 +43,7 @@ After reviewing the CSVs, we notice we have to do the following transformations;
 2. Renaming columns<br>
 3. Splitting strings<br>
 4. Change column types<br>
-5. Join Function<br>
+5. Merge/Join Function<br>
 
 #### Load: The final database, tables/collections, and why this was chosen.<br>
 ##### 3. Database: Relational or Non-Relational<br>
@@ -62,6 +62,6 @@ In the beginning, we were trying to import the our CSVs into SQL first. After cr
 
 #### Final Thoughts<br>
 We looked back on our information and thought about the following;<br>
-1. Which products/brands were popular commercial during the Superbowl<br>
-2. The cost of each commercial<br>
-3. The number of times a team went to the Superbowl<br>
+1. Which products/brands were popular commercial during the Superbowl?<br>
+2. The cost of each commercial.<br>
+3. The number of times a team went to the Superbowl.<br>
