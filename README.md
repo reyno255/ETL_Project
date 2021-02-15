@@ -56,6 +56,14 @@ We decided to load our tables into our SQL Database. The rationale for using a r
 Loading our new tables into our SQL was smooth with the use of using Python in Pandas. We were able to use Python to check that our tables were loaded into SQL correctly by using SQLAlchemy fuctions to execute commands in Pandas. We are checked our PGadmin4 Database to see if our results were in SQL. We were able to see our tables were in SQL.<br>
 
 ### Challenges and Final Thoughts<br>
-In the beginning, we were trying to import the 
+
+#### Challenges<br>
+In the beginning, we were trying to import the our CSVs into SQL first. After creating the tables and columns, we tried to import our CSVs into the database. Each time we tried, we encounter the "EXIT ONE" code error. We tried servals ways to import the CSVs into the database. We finally found a code, ("COPY superbowlads FROM '/Users/lhabersham/code/ETL_Project/Data/superbowl-ads.csv' WITH CSV HEADER;") This code work and we were excited. With the help of our professor, we learned very quickly that a simpler way is to read the CSVs in Pandas, use Python to muniplate, clean and transform our CSV then load it to SQL. Taking our professor's advice, it was a much smoother process to load our CSVs.<br>
+
+#### Final Thoughts<br>
+We looked back on our information and thought about the following;<br>
+1. Which products/brands were popular commerical diring the superbowl<br>
+2. The cost of each commerical<br>
+3. The amount of times a team went to the superbowl<br>
 
 
