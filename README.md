@@ -16,7 +16,10 @@ The final tables or collections that will be used in the production database.<br
 ### Action<br>
 
 #### Extract: Our original data sources and how the data was formatted.<br>
-##### Kaggle
+
+##### Kaggle<br>
+![Kaggle](https://github.com/reyno255/ETL_Project/blob/main/kaggle.png)<br>
+
 Superbowl History: https://www.kaggle.com/timoboz/superbowl-history-1967-2020
 Superbowl Ads: https://www.kaggle.com/prondeau/superbowlads
 
