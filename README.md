@@ -48,7 +48,7 @@ After reviewing the CSVs, we notice we have to do the following transformations;
 #### Load: The final database, tables/collections, and why this was chosen.<br>
 ##### 3. Database: Relational or Non-Relational<br>
 
-We decided to load our tables into our SQL Database. The rationale for using a relational database is that our CSVs are relational to each other. We could compare our CSVs to find information between Superbowls and Superbowl Ads in a quick and efficient way.<br>
+We decided to load our tables into an SQL Database. The rationale for using a relational database is that our two datasets were very complete and appeared to have a strong relationship with eachother. We could compare our CSVs to find information between Superbowls and Superbowl Ads in a quick and efficient way.<br>
 
 ### Results<br>
 ##### 4. Load to Database<br>
