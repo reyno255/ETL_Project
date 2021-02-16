@@ -6,7 +6,7 @@
 
 ### Situation: ETL (Extract, Transform and Load)<br>
 
-After months of learning various skills from our Data Analysis Bootcamp. We were asked to complete and ETL, Extract, Transform and Load, project. We were matched with other teammates at random. As a team, we were asked to do the following;<br>
+After months of learning various skills from our Data Analytics Bootcamp, we were asked to complete an ETL, (Extract, Transform and Load) project. We were matched as teammates at random. As a team, we were asked to do the following;<br>
 
 ### Task<br>
 
